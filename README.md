@@ -25,11 +25,10 @@
 [<img align="left" alt="Mohammad Masum Billah | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 [<img align="left" alt="Mohammad Masum Billah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mohammad Masum Billah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mohammad Masum Billah | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
 
 <br />
 
-### 🛠 &nbsp;Tools
+### 🛠 &nbsp;Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -48,4 +47,3 @@
 [facebook]: https://www.facebook.com/profile.php?id=100036766350727
 [linkedin]: https://www.linkedin.com/in/masum-billah-22680423a/
 [twitter]: https://twitter.com/masumbillah_99
-[telegram]: https://web.telegram.org/k/
