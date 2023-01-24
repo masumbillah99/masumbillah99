@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Javascript**
 
+- 🌱 I’m currently learning **Tailwind CSS**
+
 - 🌱 I’m currently learning **Bootstrap**
 
 - 🌱 I’m currently learning **CSS**
