@@ -1,4 +1,4 @@
-<h2 align="center">Hi, <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px"> I'm Muhammad Masum Billah</h2>
+<h2 align="center">Hi, I am Muhammad Masum Billah</h2>
   
 <h4 align="center">A passionate MERN Stack Developer</h4>
 <p align="center"> <img src="https://github.com/masumbillah99/masumbillah99/assets/97376863/23e42dc5-8a52-4808-bb3d-e91eb1099128" alt="MahbubDev"/> </p>
@@ -10,9 +10,9 @@
 - 🌱 I’m currently working on *Web Development*
 - 🌱 I'm currently working on *Next.Js*
 - 🌱 I'm currently working on *React.Js*
-- 💬 Talk to me about MongoDB, Express, React, JavaScript, CSS, HTML.
 - 👯 I’m looking to collaborate on *Open Source*
-- 💬 Ask me about *Programming | Web Development*
+- 💬 Talk to me about MongoDB, Express, React, JavaScript, CSS, HTML.
+- 💬 Ask me about *Programming | Web Development | Tech*
 - 📫 Reach me at **masumbillahyusuf1621@gmail.com**
 
 
@@ -23,11 +23,11 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/18365137/masum-billah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11409373" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/masumbillah99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masumbillah99" height="30" width="40" /></a>
+<a href="https://www.facebook.com/muhammadmasum99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masumbillah99" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100085904625577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masumbillah99" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hexacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hexacode" height="30" width="40" /></a>
 <a href="https://twitter.com/masumbillah_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100036766350727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masumbillah99" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100085904625577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masumbillah99" height="30" width="40" /></a>
-</p> 
+</p>
 
 <h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <br />
