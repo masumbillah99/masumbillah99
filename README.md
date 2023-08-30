@@ -1,23 +1,28 @@
-<h2 align="center">Hello, I am Muhammad Masum Billah</h2>
-  
-<h4 align="center">A passionate MERN Stack Developer</h4>
 <p align="center"> <img src="https://github.com/masumbillah99/masumbillah99/assets/97376863/23e42dc5-8a52-4808-bb3d-e91eb1099128" alt="MahbubDev"/> </p>
+<span align="left"><img src="https://komarev.com/ghpvc/?username=masumbillah99&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></span>
+<br><br>
 
-<h2> About Me </h2>
+<h2 align="center">Hi, I am Muhammad Masum Billah</h2>
+<h4 align="center">A MERN Stack developer with deep focused on Full Stack Web Development</h4>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=masumbillah99" alt="masumbillah99" /></p>
 
+<br><br>
+
+<h2> About Me /> </h2>
 <br>
 
 - 🌱 I’m currently working on *Web Development*
+- 🌱 I’m currently working on *Redux*
 - 🌱 I'm currently working on *Next.Js*
 - 🌱 I'm currently working on *React.Js*
 - 👯 I’m looking to collaborate on *Open Source*
-- 💬 Talk to me about MongoDB, Express, React, JavaScript, CSS, HTML.
+- 💬 Talk to me about MongoDB, Express.js, React.js, Node.js, JavaScript, CSS, HTML.
 - 💬 Ask me about *Programming | Web Development | Tech*
 - 📫 Reach me at **masumbillahyusuf1621@gmail.com**
 
 
   
-<h2>Connect With Me</h2>
+<h2>Connect With Me /> </h2>
 <br />
 
 <p align="left">
@@ -29,7 +34,7 @@
 <a href="https://twitter.com/masumbillah_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik" height="30" width="40" /></a>
 </p>
 
-<h2>Programming Languages and Tools </h2>
+<h2>Programming Languages and Tools /> </h2>
 <!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> -->
 <br />
 <p align="left">
@@ -76,15 +81,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masumbillah99)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=masumbillah99)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=masumbillah99&show_icons=true)
 <br/>
 <!-- github stats ends here  -->
 
 
 <!-- my languages section starts here  -->
-<h2>Languages</h2>
+<h2>Languages /> </h2>
 <br />
 
 - 🇧🇩 Bangla : Native
@@ -94,22 +97,22 @@
 <!-- my languages section ends here  -->
 
 <!-- my sports and game section starts here  -->
-<h2>Sports / Game / Activities / Hobby</h2>
+<h2>Activities /> </h2>
 <br />
 
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton, 
 - 🚶‍♂️ Walking,  🏃‍♂️ Running, 🏊‍♂️ Swimming,
-- Reading, ✈️ Travelling
+- 💬 Reading, ✈️ Travelling
 
 <br />
 <!-- my sports and games section ends here  -->
 
 
 <!-- my certificates section start here -->
-<h2>Certificates 🏅</h2> 
+<h2>Certificates /> </h2> 
 <div>
-Udemy Certificate Url: https://www.udemy.com/certificate/UC-b3edf23e-9724-4fb0-990b-4829679c61e0/
-  <p></p>
+<!-- Udemy Certificate Url: https://www.udemy.com/certificate/UC-b3edf23e-9724-4fb0-990b-4829679c61e0/ -->
+<p></p>
 <img width="500" align="center" src="https://github.com/masumbillah99/masumbillah99/assets/97376863/995765e7-63bd-4145-b60f-02d68512b434" alt="Muhammad Masum Billah" />
 </div>
 <!-- my certificates section end here -->
