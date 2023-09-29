@@ -17,7 +17,7 @@
 - 🌱 I'm currently working on *React.Js*
 - 👯 I’m looking to collaborate on *Open Source*
 - 💬 Talk to me about MongoDB, Express.js, React.js, Node.js, JavaScript, CSS, HTML.
-- 💬 Ask me about *Programming | Web Development | Tech*
+- 💬 Ask me about *Web Development | Programming | Tech*
 - 📫 Reach me at **masumbillahyusuf1621@gmail.com**
 
 
